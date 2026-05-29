@@ -19,11 +19,8 @@ MODEL_PATH = "models/best_model.h5"
 
 SCALER_PATH = "models/scaler.pkl"
 NUMERIC_COLUMNS_PATH = "models/numeric_columns.pkl"
-<<<<<<< HEAD
 TOKENIZER_PATH = "models/tokenizer"
-=======
 TOKENIZER_PATH = "models/indobert_tokenizer"
->>>>>>> 3ea417563b5f49b374a387ca5636d5051f5d4015
 
 MODEL_URL = os.environ.get("MODEL_URL")
 
