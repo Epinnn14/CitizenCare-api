@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+models/best_model.h5
+models/best_model.keras
+models/citizencare_savedmodel/
+logs/
+.ipynb_checkpoints/
