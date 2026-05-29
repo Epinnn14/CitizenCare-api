@@ -8,11 +8,8 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 
-<<<<<<< HEAD
 from flask import Flask, request, jsonify
 
-=======
->>>>>>> 3ea417563b5f49b374a387ca5636d5051f5d4015
 from transformers import AutoTokenizer
 from transformers.models.bert.modeling_tf_bert import TFBertModel
 
